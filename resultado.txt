@@ -1,0 +1,5 @@
+Capital: 2000.0, Interés: 0.15, Períodos: 5.0, Total: 1500.0
+Capital: 2000.0, Interés: 0.15, Períodos: 5.0, Total: 1500.0
+Capital: 10000.0, Interés: 0.15, Períodos: 5.0, Total: 7500.0
+Capital: 820222.0, Interés: 0.15, Períodos: 10.0, Total: 1230333.0
+Capital: 20000.0, Interés: 0.15, Períodos: 5.0, Total: 15000.0
